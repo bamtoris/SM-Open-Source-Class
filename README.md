@@ -26,3 +26,7 @@ SunMoon Open Source Class markdown
 - 세번째 아이템
 * 네번쨰 아이템
 + 다섯번째 아아템  
+
+1. 첫번째 아이템
+2. 두번째 아이템
+3. 세번쨰 아이템
