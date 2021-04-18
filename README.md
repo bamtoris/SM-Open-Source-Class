@@ -1,6 +1,11 @@
 # SM-Open-Source-Class
 SunMoon Open Source Class markdown
 
+# 코드
+
+    def sum(a. b):
+        return a + b
+
 ## 강조 방법
 이것은 한 *문장*입니다.  
 이것은 다음 _문장_입니다.
