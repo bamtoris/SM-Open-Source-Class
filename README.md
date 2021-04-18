@@ -45,5 +45,8 @@ SunMoon Open Source Class markdown
 구글로 가고 싶으면 [이것을](https://www.google.co.kr/)을 클릭하세요.
 구글로 가고 싶으면 [이것을](https://www.google.co.kr/ "구글 홈페이지")을 클릭하세요.
 라이선스를 보고 싶으면 [이것](./LICENSE)을 클릭하세요.
+
+구글로 가고 싶으면 [이것][구글]을 클릭하세요.
  
  
+[구글]: https://www.google.co.kr/
