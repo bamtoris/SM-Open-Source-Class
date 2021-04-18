@@ -5,6 +5,20 @@ SunMoon Open Source Class markdown
 
     def sum(a. b):
         return a + b
+        
+# Python Code
+
+```python
+name = 'World'
+print(name)
+```
+
+```java
+int a = 1;
+float b = 2;
+double  = a + b;
+```
+
 
 ## 강조 방법
 이것은 한 *문장*입니다.  
