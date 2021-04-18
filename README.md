@@ -6,7 +6,7 @@ SunMoon Open Source Class markdown
     def sum(a. b):
         return a + b
         
-# Python Code
+# Python Code / JAVA Code
 
 ```python
 name = 'World'
