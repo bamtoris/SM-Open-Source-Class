@@ -3,6 +3,10 @@ SunMoon Open Source Class markdown
 
 # 코드
 
+# Inline Code
+
+Python에서 `random` 패키지에서 `randint` 함수를 사용하세요
+
     def sum(a. b):
         return a + b
         
