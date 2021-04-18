@@ -55,4 +55,3 @@ SunMoon Open Source Class markdown
 
 ![구글로고]  
 (https://user-images.githubusercontent.com/82489417/115131875-56362800-a036-11eb-9b72-238fa91d126c.png)
-)
